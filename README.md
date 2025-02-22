@@ -1,0 +1,1 @@
+This is a library project for my CMPE 232 course. It has some features like adding, deleting and changing book details. One must login with student credentials or librarian credentials. The project was written in Java and is connected to MySQL. 
